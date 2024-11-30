@@ -1,0 +1,8 @@
+{
+    "mongo_uri": "mongodb://localhost:27017",
+    "database_name": "amazon",
+    "headers": {
+        "User-Agent": "YourCustomUserAgent",
+        "Accept-Language": "en-UK,en;q=0.9"
+    }
+}
